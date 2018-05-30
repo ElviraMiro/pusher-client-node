@@ -1,7 +1,7 @@
-# Pusher Node.js Client
+# Pusher/Slanger Node.js Client
 
-This library is an open source client that allows Node.js applications to connect to the
-[Pusher webservice](http://pusherapp.com/). It aims to be fully compatible and up-to-date with Pusher's
+This library (forked from dirkbonhomme/pusher-client-node) is an open source client that allows Node.js applications to connect to the
+[Pusher webservice](http://pusherapp.com/) or [Slanger](https://github.com/stevegraham/slanger). It aims to be fully compatible and up-to-date with Pusher's
 official [JavaScript client](https://github.com/pusher/pusher-js/)
 
 The largest part of this documentation is a direct copy of the [Pusher JavaScript](https://github.com/pusher/pusher-js/blob/master/README.markdown)
