@@ -12,12 +12,6 @@
     "slanger"
   ],
   "author": "Elvira Miro <karashistka@gmail.com>",
-  "contributors": [
-    {
-      "name": "Elvira Miro,
-      "email": "karashistka@gmail.com"
-    }
-  ],
   "main": "index",
   "repository": {
     "type": "git",
