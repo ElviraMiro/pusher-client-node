@@ -1,30 +1,27 @@
 {
-  "name": "pusher-client",
+  "name": "pusher-slanger-client",
   "version": "1.1.0",
   "license": "MIT",
-  "description": "Pusher client for node.js",
+  "description": "Pusher (slanger) client for node.js",
   "keywords": [
     "pusher",
     "websockets",
     "realtime",
     "push",
-    "client"
+    "client",
+    "slanger"
   ],
-  "author": "Dirk Bonhomme <dirk@bytelogic.be>",
+  "author": "Elvira Miro <karashistka@gmail.com>",
   "contributors": [
     {
-      "name": "Dirk Bonhomme",
-      "email": "dirk@bytelogic.be"
-    },
-    {
-      "name": "Paulius Uza",
-      "email": "pauliusuza@gmail.com"
+      "name": "Elvira Miro,
+      "email": "karashistka@gmail.com"
     }
   ],
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dirkbonhomme/pusher-client-node"
+    "url": "git://github.com/ElviraMiro/pusher-client-node"
   },
   "scripts": {
     "test": "make test"
