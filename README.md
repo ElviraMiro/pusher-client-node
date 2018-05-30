@@ -109,6 +109,17 @@ Allows connecting to a different datacenter by setting up correct hostnames and 
 
 These can be changed to point to alternative Pusher URLs (used internally for our staging server).
 
+#### `slanger` (String)
+
+Allows connecting to a slanger server by setting up correct hostnames for the connection.
+
+    // will connect to the 'ws.slanger.development.com' slanger domain
+    var pusher = new Pusher(API_KEY, { slanger: "ws.slanger.development.com" });
+
+#### `host`, `wsPort`, `wssPort`
+
+These can be changed to point to alternative Pusher URLs (used internally for our staging server).
+
 
 ## Connection
 
